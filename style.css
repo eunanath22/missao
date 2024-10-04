@@ -49,6 +49,7 @@ button:hover{
     color: var(--cor-principal);
 }
 
+<<<<<<< HEAD
 .caixa-alternativas{
     display: flex;
     flex-direction: column;
@@ -63,3 +64,20 @@ button:hover{
 .caixa-resultado.mostrar{
     display: block;
 }
+=======
+.caixa-alternativas{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.caixa-resultado{
+    display: none;
+}
+
+    .caixa-resultado.mostrar{
+    display: block;
+}
+
+>>>>>>> 470135284655d740d2daf5a18420711d5fd2fd4c
