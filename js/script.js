@@ -54,4 +54,4 @@ function jogaNovamente(){
     caixaResultado.classList.remove("mostrar");
     mostraPergunta();
 }
-mostraPergunta();
+mostraPergunta(); 
